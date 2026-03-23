@@ -1,108 +1,157 @@
-# About Me
+Vous voulez un site web exceptionnel ? Parlons-en !
 
-# Thileepan Edvin
+GPRM
 
-Étudiant en 2ᵉ année de BUT Informatique à l’IUT de Montreuil (Université Paris 8)  
-Recherche un stage en développement logiciel (8 à 14 semaines, avril à juin)  
-Portfolio : https://edvin-dev.fr  
+Soutenez-nous
+◄ Retour
+Votre profil génial est prêt !
 
----
+
+Copier le code
+
+Télécharger le fichier Markdown
+
+Créer un nouveau
+Besoin d'aide à ce sujet ? Cliquez ici pour regarder la vidéo.
+APERÇU
+
+💫 À propos de moi :
+Thileepan Edvin
+
+Étudiant en 2ᵉ année de BUT Informatique à l'IUT de Montreuil (Université Paris 8)
+Recherche un stage en développement logiciel (8 à 14 semaines, avril à juin)
+Portfolio : https://edvin-dev.fr
+
+—
 
 # À propos de moi
 
-Je suis étudiant en informatique, passionné par le développement logiciel et la création d’applications complètes.
-
-Au cours de ma formation, j’ai réalisé plusieurs projets en Java, JavaFX et développement web, en appliquant des concepts comme la programmation orientée objet et l’architecture MVC.
+Je suis étudiant en informatique, passionné par le développement logiciel et la création d'applications complètes.
+Au cours de ma formation, j'ai réalisé plusieurs projets en Java, JavaFX et développement web, en appliquant des concepts comme la programmation orientée objet et l'architecture MVC.
 
 Je suis capable de concevoir et développer des applications fonctionnelles, en gérant toutes les étapes du développement, du back-end au front-end.
 
----
+—
 
 # Compétences techniques
 
 ## Langages
-- Java  
-- Python  
-- SQL  
-- HTML / CSS  
-- JavaScript  
-- C  
-- PHP  
+- Java
+- Python
+- SQL
+- HTML / CSS
+- JavaScript
+- C
+- PHP
 
 ## Bases de données
-- PostgreSQL  
-- MySQL  
-- MongoDB  
+- PostgreSQL
+- MySQL
+- MongoDB
 
 ## Outils
-- Git / GitHub  
-- JavaFX  
-- VS Code  
-- VirtualBox  
+- Git / GitHub
+- JavaFX
+- VS Code
+- VirtualBox
 
 ## Concepts
-- Programmation Orientée Objet (POO)  
-- Architecture MVC  
-- API REST  
-- Structures de données  
-- Modélisation relationnelle (MCD / MLD)  
+- Programmation Orientée Objet (POO)
+- Architecture MVC
+- API REST
+- Structures de données
+- Modélisation relationnelle (MCD / MLD)
 
----
+—
 
 # Projets
 
 ## NEMESIA — Jeu 2D en Java/JavaFX
-- Développement d’un jeu inspiré de Terraria  
-- Gestion des déplacements, du saut, de la gravité et des collisions  
-- Implémentation d’un système d’inventaire et de dégâts  
-- Utilisation d’une architecture MVC  
+- Développement d'un jeu inspiré de Terraria
+- Gestion des déplacements, du saut, de la gravité et des collisions
+- Implémentation d'un système d'inventaire et de dégâts
+- Utilisation d'une architecture MVC
 
 ## Machine virtuelle et environnement serveur
-- Installation et configuration d’une machine virtuelle sous Linux  
-- Mise en place d’Apache, PHP et MySQL/PostgreSQL  
-- Création d’un environnement de développement complet  
+- Installation et configuration d'une machine virtuelle sous Linux
+- Mise en place d'Apache, PHP et MySQL/PostgreSQL
+- Création d'un environnement de développement complet
 
 ## Base de données entreprise
-- Conception d’une base de données avec MCD / MLD  
-- Réalisation de requêtes SQL (création, insertion, jointures)  
-- Travail en équipe  
+- Conception d'une base de données avec MCD / MLD
+- Réalisation de requêtes SQL (création, insertion, jointures)
+- Travail en équipe
 
 ## Site web collaboratif
-- Développement en HTML / CSS  
-- Travail en équipe avec répartition des tâches  
-- Projet lié aux Jeux Olympiques  
+- Développement en HTML / CSS
+- Travail en équipe avec répartition des tâches
+- Projet lié aux Jeux Olympiques
 
 ## Site de gestion de buvette
-- Développement d’un site dynamique en PHP et JavaScript  
-- Utilisation de MySQL pour la gestion des données  
-- Interface utilisateur avec Bootstrap  
+- Développement d'un site dynamique en PHP et JavaScript
+- Utilisation de MySQL pour la gestion des données
+- Interface utilisateur avec Bootstrap
 
----
+—
 
 # Expérience
 
-- Travail en équipe sur plusieurs projets  
-- Répartition des tâches et collaboration  
-- Développement d’applications complètes (front-end et back-end)  
-- Rédaction de documentation technique  
+- Travail en équipe sur plusieurs projets
+- Répartition des tâches et collaboration
+- Développement d'applications complètes (front-end et back-end)
+- Rédaction de documentation technique
 
----
+—
 
 # Formation
 
-BUT Informatique — IUT de Montreuil (Université Paris 8)  
-2024 – 2026  
+BUT Informatique — IUT de Montreuil (Université Paris 8)
+2024 – 2026
 
-Baccalauréat Général  
-Spécialités : Mathématiques, NSI, Physique-Chimie  
-2023 – 2024  
+Baccalauréat Général
+Spécialités : Mathématiques, NSI, Physique-Chimie
+2023 – 2024
 
----
+—
 
 # Langues
 
-Anglais : B2  
-Tamoul : Natif  
+Anglais : B2
+Tamoul : Natif
+
+—
+
+# Contact
+
+Email : Thileepanedvin@gmail.com
+GitHub : https://github.com/ThileepanEdvin
+LinkedIn : https://linkedin.com/in/edvin-thileepan-85
+Portefeuille : https://edvin-dev.fr
+🌐 Réseaux sociaux :
+[ LinkedIn]( https://linkedin.com/in/Edvin Thileepan)e-mail
+
+💻 Pile technologique :
+MongoDB MySQL Apache Maven Apache Canva Trello Java Python C PHP HTML5 JavaScript Oracle Anaconda JavaFX CSS3 Figma GitHub Git Docker Prezi
+
+📊 Statistiques GitHub :
+
+
+
+
+
+
+
+
+Que faire ensuite ? 
+Copiez ce code et collez-le dans votre fichier ReadMe sur GitHub.
+
+
+Salut 👋, pouvez-vous nous aider à nous développer en partageant ?
+
+
+Retour
+itsvgin@gmail.com
+</> & Conçu avec 💛 Vishwa Gaurav
 
 ---
 
